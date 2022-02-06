@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x13b2b26ab1bb5193558a117bc75168e36eb77e631e1de6058b9c16de982056eb",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x13b2b26ab1bb5193558a117bc75168e36eb77e631e1de6058b9c16de982056eb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Alex Eys",
+  "SYMBOL": "AENFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/alexs-eyes",
+  "SHOW_BACKGROUND": true
+}
